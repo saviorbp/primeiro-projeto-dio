@@ -1,2 +1,2 @@
-# primeiro-projeto-dio
-desafio de projeto git\github dio
+#Repositório do Desafio de Projeto sobre Git/GitHub de DIO
+Desafio de Projeto sobre Git/GitHub
